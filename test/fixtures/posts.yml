@@ -3,11 +3,7 @@
 one:
   title: MyString
   message: MyText
-  invoke: MyString
-  active_record: MyString
 
 two:
   title: MyString
   message: MyText
-  invoke: MyString
-  active_record: MyString
